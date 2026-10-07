@@ -84,6 +84,7 @@ A curated list of data breach intelligence tools, OSINT platforms, dark web moni
 - [SecurityWeek](https://www.securityweek.com/) - Enterprise security news
 - [Threatpost](https://threatpost.com/) - Security news and insights
 - [DataBreaches.net](https://www.databreaches.net/) - Breach disclosure reporting
+- [Piratage.fr](https://www.piratage.fr/) - Sourced register of data breaches affecting French public bodies, separating confirmed facts from attacker claims (in French)
 
 ## Forums & Communities
 
